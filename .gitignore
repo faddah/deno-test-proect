@@ -1,0 +1,10 @@
+# OS
+DS_Store
+
+# VSCode
+.vscode/
+.vscode/*
+.vscode/**
+.vscode/**/*
+.vscode/*.json
+.vscode/settings.json
